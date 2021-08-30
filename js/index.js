@@ -1,8 +1,8 @@
 var settings = {
-    "url": "https://j9dh3ne194.execute-api.ap-northeast-2.amazonaws.com/fdpg2021/online_status",
+    "url": "https://j9dh3ne194.execute-api.ap-northeast-2.amazonaws.com/fdpg2021/signed_in_player_list",
     "method": "POST",
     "timeout": 0,
-    "data": "{\n    \"fdid\": \"polun\"\n}",
+    "data": "",
 };
 
 window.addEventListener('load', function() {
